@@ -3,4 +3,3 @@ c=0
 for e in l:
         c = c+e
 print(c)
-
